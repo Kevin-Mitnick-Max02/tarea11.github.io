@@ -52,6 +52,9 @@ section {
     height: auto;
 }
 @media (max-width:600px){
+    body{
+        background-color: red;
+    }
     .perfil img{
         width: 50%;
     }
